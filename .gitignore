@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# sotc
+sce
+data/baserom.elf
+*.elf
+*.map
+*.lst
+*.XFF
+__pycache__
+.DS_Store
